@@ -1,0 +1,17 @@
+{
+  "AUTOROLE_LIST": "List of autoroles",
+  "AUTOROLE_DROPDOWN": "Dropdown roles",
+  "AUTOROLE_BUTTON": "Button roles",
+  "AUTOROLE_ON_JOIN": "On join roles",
+  "DROPDOWN_CREATED": "Dropdown autorole successfully created!\nNow you can add roles by using command {command}",
+  "DROPDOWN_DELETED": "Dropdown autorole successfully deleted!",
+  "OPTION_ADDED": "Option successfully added to autorole!",
+  "OPTION_REMOVED": "Option successfully removed from autorole!",
+  "BUTTON_CREATED": "Button autorole successfully created!\nNow you can add roles by using command {command}",
+  "BUTTON_DELETED": "Button autorole successfully deleted!",
+  "BUTTON_ADDED": "Button successfully added to autorole!",
+  "BUTTON_REMOVED": "Button successfully removed from autorole!",
+  "ON_JOIN_ROLE_ADDED": "{role} successfully appended to on join roles",
+  "ON_JOIN_ROLE_REMOVED": "{role} successfully removed from on join roles",
+  "LANGUAGE_CHANGED": "Language changed to English"
+}

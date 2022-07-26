@@ -1,0 +1,13 @@
+{
+  "100": "Autorole with name `{name}` not found. Create one with {command}",
+  "101": "Channel for this autorole not found. Looks like you removed channel. If you want this autorole you can copy that. If not, delete this autorole by using command {command}",
+  "102": "Message for this autorole not found. Looks like you deleted message. If you want this autorole you can copy that. If not, delete this autorole by using command {command}",
+  "103": "Option not found. Have you made a mistake?",
+  "104": "This autorole has too many options(25). You can't add more. Delete one for adding a new.",
+  "105": "This autorole has too many buttons(25). You can't add more. Delete one for adding a new.",
+  "106": "Button with this label not found. Have you made mistake?",
+  "107": "On join role not found. Have you made mistake?",
+  "108": "This message does not have buttons to remove.",
+  "109": "This role already added.",
+  "110": "You don't have any on join roles. Add some by using command {command}"
+}

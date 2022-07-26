@@ -1,13 +1,5 @@
-aiohttp==3.8.1
-bored_api
-certifi
-discord.py==1.7.3
-genshin
-git+https://github.com/Damego/discord-py-interactions.git
-lavalink
+attrs
+discord-py-interactions
 motor
-pillow
-pre-commit
-PyGithub
 pymongo
-qrcode
+python-dotenv
